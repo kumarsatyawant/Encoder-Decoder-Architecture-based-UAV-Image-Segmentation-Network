@@ -18,7 +18,7 @@ Network:
 
 Results:
 -------- 
-Quantitative result on UAVid dataset:
+Quantitative result on UAVid test dataset:
 
 
 | Building  | Tree  | Clutter | Road    | Low vegetation  | Static Car | Moving Car | Human | mIoU (%) | OA (%)  |
@@ -37,7 +37,7 @@ Quantitative result on UAVid dataset:
   Fig. 3. The qualitative prediction results on the UAVid test dataset.
 </p>
 
-Quantitative result on UDD-6 dataset:
+Quantitative result on UDD-6 validation dataset:
 
 
 | Other  | Facade | Road    |  Vegetation   |  Vehicle  |  Roof  | mIou (%) |  Mean F1 (%) | OA (%)  |
